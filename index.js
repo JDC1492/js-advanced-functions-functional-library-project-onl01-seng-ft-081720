@@ -9,9 +9,6 @@ const fi = (function() {
         return callback(c)
       }
 
-      )
-      
-
     },
 
     map: function() {
